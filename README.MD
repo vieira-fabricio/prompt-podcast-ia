@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/robot_podcast.jpeg"
+    src="./assets/robot_podcast"
     width="300"
 />
 </p>
