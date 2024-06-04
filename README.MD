@@ -47,7 +47,7 @@ Utilize o passo a passo abaixo.
 ## 👨‍💻 Expert
 
 <p>
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspFabricio Vieira<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/vieira-fabricio">
