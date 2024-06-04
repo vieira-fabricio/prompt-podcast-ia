@@ -13,6 +13,10 @@
     <audio src="output/conteudo.mp3" controls title="Podcast editado"></audio>
 </div>
 
+<video width="320" height="240" controls>
+  <source src="./output/podcast-ap01" type="video/mp4">
+</video>
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts ricos.
